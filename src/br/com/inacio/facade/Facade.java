@@ -7,7 +7,7 @@ public class Facade {
 
     public  void migrarCliente(String nome,String cep){
         //Para o metodo gravarCliente ter os quatros
-        // paramentros teremos que utilizar os subsistema
+        // parâmetros teremos que utilizar os subsistema
 
         String cidade = CepApi.getInstacia().recuperarCidade(cep);
         String estado = CepApi.getInstacia().recuperarEstado(cep);
