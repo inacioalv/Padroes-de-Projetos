@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Padroes-de-Projetos.iml" filepath="$PROJECT_DIR$/Padroes-de-Projetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/br/com/inacio/projetoBase/projetoBase.iml" filepath="$PROJECT_DIR$/src/br/com/inacio/projetoBase/projetoBase.iml" />
     </modules>
   </component>
 </project>
